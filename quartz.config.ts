@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📚 Curiosity Chronicles",
+    pageTitle: "🔑 The Keeper Of The Keys",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
